@@ -1,6 +1,6 @@
 # Nitrate Risk Prediction in Alberta Well Water
 
-Machine Learning Project | Imbalanced Classification | Environmental Health
+Machine Learning Project  |  Imbalanced Classification  |  Environmental Health
 
 ## Overview
 This project predicts unsafe nitrate levels (>10 mg/L) in domestic well water in Alberta using machine learning models. High nitrate levels pose potential health risks, especially for rural populations relying on private wells.
@@ -19,9 +19,9 @@ The dataset includes routine water chemistry measurements such as pH, hardness, 
 Logistic Regression performs similarly to or better than the MLP on this dataset, showing that simpler models can be effective for structured environmental data.
 
 ## Files
-- `notebook.ipynb` — full analysis and modeling workflow
-- `final_report.pdf` — detailed project report
-- `slides.pdf` — presentation slides
+- `nitrate-risk-modeling.ipynb` — full analysis and modeling workflow
+- `nitrate-risk-report.pdf` — detailed project report
+- `nitrate-risk-slides.pdf` — presentation slides
 
 ## Data Source
 https://open.alberta.ca/opendata/domestic-well-water-quality-in-alberta-routine-chemistry
